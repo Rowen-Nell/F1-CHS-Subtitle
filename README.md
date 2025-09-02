@@ -16,13 +16,13 @@
 HDR版本
 
 ```
-magnet:?xt=urn:btih:bd0124c06a045507fef18880edd5866d42354771&dn
+F1.The.Movie.2025.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BYNDR
 ```
 
 SDR版本
 
 ```
-magnet:?xt=urn:btih:bd4e60a5432076d0349648eef8cdb0d3101fcbb9&dn
+F1.The.Movie.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR
 ```
 
 ## 字幕版本及如何选择
