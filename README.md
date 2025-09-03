@@ -11,8 +11,6 @@
 
 字幕对 **Apple TV的HDR版** 和 **Amazon的SDR** 版均做了适配
 
-视频源链接如下
-
 HDR版本
 
 ```
